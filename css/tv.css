@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+    
+
+ul-li{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    display: flex;
+    gap: 5%;
+    justify-content: left;
+    align-items: center;
+}
+.search{
+    border: 2px solid black;
+    height: 30px;
+    border-radius: 5px ;
+}
+#ser{
+    height: 30px;
+    border: none;
+    margin-left: 10px;
+}
+#sar{
+    margin-left: 5px;
+}
+#heart{
+    font-size: 30px;
+}
+#pro{
+font-size: 30px;
+}
+.navbar1{
+    
+    border-radius: 1px;
+    height: 50px;
+    width: 100%;
+    background-color: deeppink;
+    
+    margin-top: 50px;
+    /* position: fixed; */
+margin-top: -10px;
+display: flex;
+gap: 5px;
+color: azure;
+}
+h5{
+    margin-left: 60%;
+}
+.aa{
+    display: flex;
+    font-size: 50px;
+    gap:90px;
+    margin-left: 20%;
+    font-weight: bolder;
+}
+.come{
+    display: flex;
+    gap: 40px;
+    font-size: 50px;
+    margin-left: 20%;
+
+    
+}
+.kkkk{
+    height: 760px;
+    width: 100%;
+    padding-top: 80px;
+}
+.nkr{
+    font-size: 50px;
+    gap: 60px;
+    font-weight: bolder;
+    margin-top: -10%;
+    margin-left: 30%;
+    color: green;
+}
+#jkr{
+    font-size: 40px;
+    padding-top: -5%;
+    font-weight: bolder;
+    margin-left: 30%;
+}
+.poster{
+    display: flex;
+
+    gap: 25px;
+    margin-top: -5%;
+    
+
+}
+
+
+
+
+.mb{
+    display: flex;
+    gap: 25px;
+    
+}
+.linkharus a{
+               
+    list-style: none;text-decoration: none;
+    color: blue;
+}
+#uui{
+ margin-left: 20%;
+}
+
+.linkharus{
+ display: flex;
+ gap: 429px;
+}
